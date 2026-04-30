@@ -27,7 +27,11 @@ Active competitive programmer, competing under the team name **NoBinOp**. Regula
 ## 🚀 Experience & Projects
 
 <!-- PROJECTS:START -->
-Soon
+- [**Travel-Planner**](https://github.com/h00yaday/Travel-Planner) — A high-performance Travel Planner REST API built with FastAPI and PostgreSQL. Features third-party integration with the Art Institute of Chicago, automated project status tracking, and containerized deployment via Docker. `[Python]`
+- [**Charnik_online**](https://github.com/h00yaday/Charnik_online) — Нет описания `[TypeScript]`
+- [**islands-and-religions**](https://github.com/h00yaday/islands-and-religions) — Нет описания `[Unknown]`
+- [**h00yaday.github.io**](https://github.com/h00yaday/h00yaday.github.io) — Нет описания `[Unknown]`
+
 <!-- PROJECTS:END -->
 
 ---
