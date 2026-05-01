@@ -27,10 +27,10 @@ Active competitive programmer, competing under the team name **NoBinOp**. Regula
 ## 🚀 Experience & Projects
 
 <!-- PROJECTS:START -->
+- [**Charnik_online**](https://github.com/h00yaday/Charnik_online) — A full-stack web application for tabletop RPG character management. Features dynamic character sheets, combat tracking, and an integrated dice roller. Built with Python and React/TypeScript. `[TypeScript]`
 - [**Travel-Planner**](https://github.com/h00yaday/Travel-Planner) — A high-performance Travel Planner REST API built with FastAPI and PostgreSQL. Features third-party integration with the Art Institute of Chicago, automated project status tracking, and containerized deployment via Docker. `[Python]`
-- [**Charnik_online**](https://github.com/h00yaday/Charnik_online) — Нет описания `[TypeScript]`
 - [**islands-and-religions**](https://github.com/h00yaday/islands-and-religions) — Нет описания `[Unknown]`
-- [**h00yaday.github.io**](https://github.com/h00yaday/h00yaday.github.io) — Нет описания `[Unknown]`
+- [**aeneas**](https://github.com/h00yaday/aeneas) — aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment) `[Unknown]`
 
 <!-- PROJECTS:END -->
 
