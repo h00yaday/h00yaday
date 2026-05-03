@@ -32,7 +32,7 @@ Active competitive programmer, competing under the team name **NoBinOp**. Regula
 - [**mashta-lilia/my_congrat_bot**](https://github.com/mashta-lilia/my_congrat_bot) — telegram bot  `[Python]`
 - [**mashta-lilia/handwriter**](https://github.com/mashta-lilia/handwriter) — web service to transform text to image with hand-written latters  `[TypeScript]`
 - [**mashta-lilia/wellness-drone-tax**](https://github.com/mashta-lilia/wellness-drone-tax) — No description `[TypeScript]`
-- [**shevchenkkko/content-pilot**](https://github.com/shevchenkkko/content-pilot) — No description `[HTML]`
+- [**shevchenkkko/home_task**](https://github.com/shevchenkkko/home_task) — No description `[Python]`
 
 <!-- PROJECTS:END -->
 
