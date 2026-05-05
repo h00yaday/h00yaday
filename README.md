@@ -27,8 +27,8 @@ Active competitive programmer, competing under the team name **NoBinOp**. Regula
 ## 🚀 Experience & Projects
 
 <!-- PROJECTS:START -->
-- [**h00yaday/Travel-Planner**](https://github.com/h00yaday/Travel-Planner) — A high-performance Travel Planner REST API built with FastAPI and PostgreSQL. Features third-party integration with the Art Institute of Chicago, automated project status tracking, and containerized deployment via Docker. `[Python]`
 - [**h00yaday/Charnik_online**](https://github.com/h00yaday/Charnik_online) — A full-stack web application for tabletop RPG character management. Features dynamic character sheets, combat tracking, and an integrated dice roller. Built with Python and React/TypeScript. `[TypeScript]`
+- [**h00yaday/Travel-Planner**](https://github.com/h00yaday/Travel-Planner) — A high-performance Travel Planner REST API built with FastAPI and PostgreSQL. Features third-party integration with the Art Institute of Chicago, automated project status tracking, and containerized deployment via Docker. `[Python]`
 - [**mashta-lilia/my_congrat_bot**](https://github.com/mashta-lilia/my_congrat_bot) — telegram bot  `[Python]`
 - [**mashta-lilia/handwriter**](https://github.com/mashta-lilia/handwriter) — web service to transform text to image with hand-written latters  `[TypeScript]`
 - [**mashta-lilia/wellness-drone-tax**](https://github.com/mashta-lilia/wellness-drone-tax) — No description `[TypeScript]`
