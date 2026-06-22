@@ -27,10 +27,10 @@ Active competitive programmer, competing under the team name **NoBinOp**. Regula
 ## 🚀 Experience & Projects
 
 <!-- PROJECTS:START -->
+- [**h00yaday/kse-air-raid-forecasting**](https://github.com/h00yaday/kse-air-raid-forecasting) — No description `[Python]`
 - [**mashta-lilia/handwriter**](https://github.com/mashta-lilia/handwriter) — web service to transform text to image with hand-written latters  `[TypeScript]`
 - [**h00yaday/Charnik_online**](https://github.com/h00yaday/Charnik_online) — A full-stack web application for tabletop RPG character management. Features dynamic character sheets, combat tracking, and an integrated dice roller. Built with Python and React/TypeScript. `[TypeScript]`
 - [**h00yaday/book_managment_system**](https://github.com/h00yaday/book_managment_system) — No description `[Python]`
-- [**h00yaday/islands-and-religions**](https://github.com/h00yaday/islands-and-religions) — No description `[Unknown]`
 - [**mashta-lilia/my_congrat_bot**](https://github.com/mashta-lilia/my_congrat_bot) — telegram bot  `[Python]`
 - [**mashta-lilia/wellness-drone-tax**](https://github.com/mashta-lilia/wellness-drone-tax) — No description `[TypeScript]`
 
